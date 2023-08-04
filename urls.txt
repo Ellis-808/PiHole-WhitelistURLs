@@ -27,6 +27,7 @@ auth.gfx.ms
 ocsp.digicert.com
 us.configsvc1.live.com.akadns.net
 img-prod-cms-rt-microsoft-com.akamaized.net
+aka.ms/myrecoverykey
 login.microsoftonline.com
 logincdn.msauth.net
 login.msa.akadns6.net
